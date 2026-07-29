@@ -1,0 +1,3 @@
+- Like a method with special name _ _init_ _
+- Creates instance of object, return identity of object
+- Initializes object's instance variables

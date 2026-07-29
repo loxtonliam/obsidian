@@ -1,0 +1,6 @@
+- set of type variable
+- Belong to particular instance of class
+- **self** keyword
+	- part of each instance
+- the _ before the variable name indicates it should not be accessed by the client 
+	- ie: private variable

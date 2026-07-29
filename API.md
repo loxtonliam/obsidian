@@ -1,0 +1,1 @@
+Application Programming Interface, is a set of rules and protocols that allows different software applications to communicate and exchange data with one another. It acts as a digital intermediary, delivering a request from one system to another and bringing the response back
