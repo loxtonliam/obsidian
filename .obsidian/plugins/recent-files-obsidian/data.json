@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "CS144 Home Page",
+      "path": "CS144 Home Page.md"
+    },
+    {
       "basename": "CS144 Project",
       "path": "CS144 Project.md"
+    },
+    {
+      "basename": "QnA 28-07",
+      "path": "QnA 28-07.md"
+    },
+    {
+      "basename": "Tut 2",
+      "path": "Tut 2.md"
+    },
+    {
+      "basename": "CS Lecture 29-07",
+      "path": "CS Lecture 29-07.md"
     },
     {
       "basename": "DS Discussion 29-07",
       "path": "DS Discussion 29-07.md"
     },
     {
-      "basename": "DS Tut 2",
-      "path": "DS Tut 2.md"
+      "basename": "DS 141 Home Page",
+      "path": "DS 141 Home Page.md"
     },
     {
-      "basename": "CS Lecture 29-07",
-      "path": "CS Lecture 29-07.md"
+      "basename": "Advanced Tables Formula",
+      "path": "Advanced Tables Formula.md"
+    },
+    {
+      "basename": "Math 144 Home Page",
+      "path": "Math 144 Home Page.md"
+    },
+    {
+      "basename": "Math 154 Home Page",
+      "path": "Math 154 Home Page.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "templates/Home Page.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "CS144 03-08",
+      "path": "CS144 03-08.md"
+    },
+    {
+      "basename": "ADT",
+      "path": "ADT.md"
+    },
+    {
+      "basename": "DS Tut 2",
+      "path": "DS Tut 2.md"
     },
     {
       "basename": "Instance Variables",
@@ -25,28 +69,12 @@
       "path": "Methods.md"
     },
     {
-      "basename": "CS144 Home Page",
-      "path": "CS144 Home Page.md"
-    },
-    {
-      "basename": "DS 141 Home Page",
-      "path": "DS 141 Home Page.md"
-    },
-    {
       "basename": "Constructors",
       "path": "Constructors.md"
     },
     {
       "basename": "API",
       "path": "API.md"
-    },
-    {
-      "basename": "Tut 2",
-      "path": "Tut 2.md"
-    },
-    {
-      "basename": "QnA 28-07",
-      "path": "QnA 28-07.md"
     },
     {
       "basename": "Lecture",
