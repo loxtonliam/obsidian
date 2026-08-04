@@ -87,3 +87,64 @@ $$s_{xy} = \frac{1}{n-1}[\sum_{i=1}^n{x_iy_i}-\frac{\sum_{i=1}^n{x_i}\sum_{i=1}^
 	- if x is above its mean, then y tends to be below its mean
 - 0
 	- no linear relationship
+
+### Correlation
+- describes both the direction and strength of the [[linear relationship]] between x and y
+- sample correlation coefficient
+$$r_{xy} = \frac{s_{xy}}{s_xs_y}$$
+- population correlation coefficient
+$$P_{xy} = \frac{\sigma_{xy}}{\sigma_{x}\sigma_{y}}$$
+- the coefficient has no unit
+	- falls between -1 and 1
+### Outliers
+>[!info] item of data that is significantly different from the rest of the data
+
+#### Turkey's Rule
+$$outlier > 1.5IQR + Q3 $$
+$$outlier < Q1 - 1.5IQR$$
+### Missing Values
+#### Deletion
+- simplest approach to dealing with missing values
+- delete all observations with contain missing values in one or more variables
+#### Imputation
+- we estimate or **impute** these missing values rather than deleting them
+### In R
+![[R Numerical Summaries.png]]
+
+## Visual Summaries of Data
+### Bar Charts
+- used to portray frequencies 
+- provide an effective way to compare and contrast values for different categorical variables
+- ![[Bar Chart.png]]
+
+### Pie Chart
+- used for categorical data 
+- display [[relative frequencies]]
+- ![[Pie Chart.png]]
+
+### Line Chart
+- used to show changes in values over times
+- x-axis typically shows sequential time values
+- ![[line chart.png]]
+### Scatterplot
+- used to display values of a pair of numerical variables
+- useful to uncover trends in data, easy to detect outliers
+- ![[scatterplot.png]]
+### Boxplots
+- also known as box and whisker diagram
+- box
+	- shows Q1, Q2,Q3
+- whiskers
+	- show min and max of function
+- dots
+	- outliers
+![[boxplot.png]]
+
+### Histograms
+- visualise the distribution of [[numerical data]]
+- constrcution begins with a frequency table
+![[histograms.png]]
+
+### Data Visualisation in R
+- done using the **ggplot2** package
+![[ggplot2 package.png]]
