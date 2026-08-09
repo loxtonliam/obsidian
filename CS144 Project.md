@@ -26,3 +26,11 @@
 - indicates all mappings in the guess cipher that match those in the true cipher
 - guess = 413651 and true = 213461
 	- reveal = -13--1
+
+# Agentic Cipherlock
+- extension where hacker can play **agent cards** that have different effects
+	- deck decided on at start of the game
+- Agent card
+	- one crack effect, reveal effecct and bonus effect
+- bunch of inputs are changed on this version
+	- code it conditionally
