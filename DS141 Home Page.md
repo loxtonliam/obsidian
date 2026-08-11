@@ -10,15 +10,15 @@ SORT file.name ASC
 
 | Tutorial No. | Percentage |
 | ------------ | ---------- |
-| 1            |            |
-| AVG          | 0          |
+| 1            | 100        |
+| AVG          | 100        |
 <!-- TBLFM: @>$2=mean(@I$>..@-1$>) -->
 
 | Assignment | Percentage | Weight | Weighted Score |
 | ---------- | ---------- | ------ | -------------- |
-| Tuts       |            | 0.1    | 0              |
+| Tuts       | 100        | 0.1    | 10             |
 | A1         |            | 0.35   | 0              |
 | A2         |            | 0.55   | 0              |
-| Avg        |            |        | 0              |
+| Avg        |            |        | 10             |
 <!-- TBLFM: $>=($2*$3) -->
 <!-- TBLFM: @>$>=sum(@I$>..@-1$>) -->
