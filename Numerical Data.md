@@ -1,0 +1,2 @@
+- represents measurable quantities
+- also known as **quantitative**

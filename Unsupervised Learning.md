@@ -1,0 +1,2 @@
+- there are no labels or [[target variable|target variables]] to learn from
+- the aim is to learn relationships and structure from the data itself

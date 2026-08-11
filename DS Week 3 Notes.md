@@ -148,3 +148,6 @@ $$outlier < Q1 - 1.5IQR$$
 ### Data Visualisation in R
 - done using the **ggplot2** package
 ![[ggplot2 package.png]]
+
+![[DS Week 3 Notes - shapes.png]]
+![[DS Week 3 Notes - shape names.png]]

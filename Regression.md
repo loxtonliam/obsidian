@@ -1,0 +1,4 @@
+- attempts to predict, for each [[observation]], the numerical value of some [[target variable]] for that [[observation]]
+- used for a [[Numerical Data|numerical]] [[target variable]]
+- **line of best fit**
+- example of [[Supervised Learning]]

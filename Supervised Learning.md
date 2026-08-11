@@ -1,0 +1,3 @@
+- there is a set of data labelled with 'correct' answers to learn from
+- a [[target variable]] is used
+- the other attributes in the data set are used to estimate the value of this [[target variable]]
