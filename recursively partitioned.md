@@ -1,0 +1,1 @@
+a data analysis method that builds a decision tree by repeatedly splitting a data set into smaller subgroups based on predictor variables

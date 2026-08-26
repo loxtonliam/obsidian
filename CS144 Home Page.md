@@ -5,10 +5,14 @@ FROM #CS144
 SORT file.name ASC
 
 ```
+STU/0177200
 
 | Tutorial No. | Percentage |
 | ------------ | ---------- |
 | 1            | 90         |
+| 2            | 80         |
+| 3            | 100        |
+| 4            | 90         |
 | AVG          | 90         |
 <!-- TBLFM: @>$2=mean(@I$>..@-1$>) -->
 

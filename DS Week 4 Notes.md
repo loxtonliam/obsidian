@@ -16,7 +16,7 @@
 - the aim is to learn relationships and structure from the data itself
 
 # Basic Types of Models
-## Classification
+## [[Classification]]
  - aim is to predict, for each [[observation]], which of a set of classes this [[observation]] belongs to
  - used for [[Categorical Data|categorical]] [[target variable]]
  - typically mutually exclusive
@@ -24,6 +24,7 @@
 - two possible classes -> [[binary classification]]
 	- more than two -> multi-class classification
 - example of [[Supervised Learning]]
+
 
 ## [[Regression]]
 - attempts to predict, for each [[observation]], the numerical value of some [[target variable]] for that [[observation]]
@@ -68,3 +69,9 @@ $$\hat{Y} = \hat{f} (X)$$
 - attempt to find an $f$ that gets as close to the data points as possible
 - Therefore requiring more data to obtain estimates
 - 
+
+# Practical Assignment
+
+- done in markdown
+## Code Chunks
+![[DS Week 4 Notes - code chunks.png]]

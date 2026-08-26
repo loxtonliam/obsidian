@@ -1,0 +1,1 @@
+touching or connecting in an unbroken sequence without any gaps or spaces in between

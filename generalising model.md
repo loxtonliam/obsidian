@@ -1,0 +1,1 @@
+- a model generalised well if it can extract patterns from the data and effectively apply this to new data

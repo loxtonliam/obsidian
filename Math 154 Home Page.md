@@ -4,8 +4,8 @@
 
 | Tutorial No. | Percentage |
 | ------------ | ---------- |
-| 1            |            |
-| AVG          | 0          |
+| 1            | 75         |
+| AVG          | 75         |
 <!-- TBLFM: @>$2=mean(@I$>..@-1$>) -->
 
 | Assignment | Percentage | Weight | Weighted Score |

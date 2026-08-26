@@ -1,4 +1,4 @@
-the value we would like to predict
+ hthe value we would like to predict
 - also known as
 - response
 - outcome
