@@ -31,6 +31,23 @@ $$P(EF|G) =  P(E|G)P(F|G)$$
 	- better used for ranking outcomes
 - not ideal for data sets with many numerical features
 	- suited for categorical features
+### Spam Filter
+$$P(spam|word) = \frac{P(spam word)}{P(word)}$$
+#### Building a spam dataset
+- Data must be labelled
+- Quanitfy attributes
+### Difficulties of dealing with text
+- unstructured
+- "dirty" data
+- context matters
+- Different languages
+### Text Mining
+>[!info] process of deriving info from unstructured text data
+
+- Considers attributes like
+	- patterns
+	- topics
+zo
 
 ## In R
 - seq_len 
