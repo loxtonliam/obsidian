@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "CS Small World",
+      "path": "CS Small World.md"
+    },
+    {
+      "basename": "CS144 Symbol Tables",
+      "path": "CS144 Symbol Tables.md"
+    },
+    {
       "basename": "CS Sorting and Searching",
       "path": "CS Sorting and Searching.md"
+    },
+    {
+      "basename": "DS Week 7 Notes",
+      "path": "DS Week 7 Notes.md"
+    },
+    {
+      "basename": "DS Week 8 Notes",
+      "path": "DS Week 8 Notes.md"
+    },
+    {
+      "basename": "DS Week 9 Notes",
+      "path": "DS Week 9 Notes.md"
+    },
+    {
+      "basename": "DS Week 10 Notes (Clustering)",
+      "path": "DS Week 10 Notes (Clustering).md"
+    },
+    {
+      "basename": "CS144 A1 Guide",
+      "path": "CS144 A1 Guide.md"
+    },
+    {
+      "basename": "DS Week 11 Notes",
+      "path": "DS Week 11 Notes.md"
+    },
+    {
+      "basename": "DS Week 12 Notes",
+      "path": "DS Week 12 Notes.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "CS 144 Topic 7 - Performance",
+      "path": "CS 144 Topic 7 - Performance.md"
+    },
+    {
+      "basename": "CS Stacks and Queues",
+      "path": "CS Stacks and Queues.md"
+    },
+    {
+      "basename": "node",
+      "path": "node.md"
+    },
+    {
+      "basename": "Charlatan Positioning Guide",
+      "path": "val/Charlatan Positioning Guide.md"
+    },
+    {
+      "basename": "Math 154 Home Page",
+      "path": "Math 154 Home Page.md"
+    },
+    {
+      "basename": "Val Home Page",
+      "path": "val/Val Home Page.md"
+    },
+    {
+      "basename": "CS144 Home Page",
+      "path": "CS144 Home Page.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "templates/Home Page.md"
+    },
+    {
+      "basename": "CS Lecture 29-07",
+      "path": "CS Lecture 29-07.md"
+    },
+    {
+      "basename": "target variable",
+      "path": "target variable.md"
+    },
+    {
+      "basename": "DS 141 Week 5 Notes",
+      "path": "DS 141 Week 5 Notes.md"
     },
     {
       "basename": "lg",
@@ -21,14 +105,6 @@
       "path": "DS Week 4 Notes.md"
     },
     {
-      "basename": "CS 144 Topic 7 - Performance",
-      "path": "CS 144 Topic 7 - Performance.md"
-    },
-    {
-      "basename": "CS144 Home Page",
-      "path": "CS144 Home Page.md"
-    },
-    {
       "basename": "Math 144 Home Page",
       "path": "Math 144 Home Page.md"
     },
@@ -37,20 +113,12 @@
       "path": "DS141 Home Page.md"
     },
     {
-      "basename": "target variable",
-      "path": "target variable.md"
-    },
-    {
       "basename": "contiguously",
       "path": "contiguously.md"
     },
     {
       "basename": "Bayes' Formula",
       "path": "Bayes' Formula.md"
-    },
-    {
-      "basename": "DS 141 Week 5 Notes",
-      "path": "DS 141 Week 5 Notes.md"
     },
     {
       "basename": "Classification",
@@ -71,14 +139,6 @@
     {
       "basename": "recursively partitioned",
       "path": "recursively partitioned.md"
-    },
-    {
-      "basename": "Math 154 Home Page",
-      "path": "Math 154 Home Page.md"
-    },
-    {
-      "basename": "CS Lecture 29-07",
-      "path": "CS Lecture 29-07.md"
     },
     {
       "basename": "CS Designing Data Types",

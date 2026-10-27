@@ -13,114 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 154 Home Page.md",
+                "file": "CS Small World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math 154 Home Page"
+              "title": "CS Small World"
             }
           },
           {
-            "id": "e42fd040d3cd7f7f",
+            "id": "2306c96ff6bcc628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Lecture 29-07.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CS Lecture 29-07"
-            }
-          },
-          {
-            "id": "97096d4d8ddbd2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS 141 Week 6 Notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DS 141 Week 6 Notes"
-            }
-          },
-          {
-            "id": "6bd6ee334291ab2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Sorting and Searching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS Sorting and Searching"
-            }
-          },
-          {
-            "id": "f6e3bbead98b2a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lg"
-            }
-          },
-          {
-            "id": "71b31697e40b31ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS 141 Week 5 Notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DS 141 Week 5 Notes"
-            }
-          },
-          {
-            "id": "c24df7691b56d561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS144 Home Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS144 Home Page"
-            }
-          },
-          {
-            "id": "e8775561f2838567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "target variable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "target variable"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -309,44 +220,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6bd6ee334291ab2d",
+  "active": "f34a7c5ed522baf7",
   "lastOpenFiles": [
-    "CS Sorting and Searching - Binary.png",
-    "lg.md",
+    "CS144 Symbol Tables.md",
     "CS Sorting and Searching.md",
-    "CS Sorting and Searching - hint.png",
+    "DS Week 7 Notes.md",
+    "DS Week 8 Notes.md",
+    "DS Week 9 Notes.md",
+    "DS Week 10 Notes (Clustering).md",
+    "CS144 A1 Guide.md",
+    "DS Week 11 Notes.md",
+    "CS Small World.md",
+    "DS Week 12 Notes.md",
+    "Untitled 1.md",
+    "DS Week 10 Notes (Clustering) - dendogram.png",
+    "CS144 Symbol Tables - API.png",
+    "DS Week 9 Notes - neighbours.png",
+    "DS Week 9 Notes - manhattan.png",
+    "DS Week 9 Notes - distance.png",
+    "DS Week 9 Notes - 2d table.png",
+    "CS 144 Topic 7 - Performance.md",
+    "CS Stacks and Queues.md",
+    "CS Stacks and Queues - linked.png",
+    "node.md",
+    "DS Week 7 Notes - DTM-1.png",
+    "CS Stacks and Queues - Q ops.png",
+    "CS Stacks and Queues - Example of stack ops.png",
+    "val/Charlatan Positioning Guide.md",
+    "Math 154 Home Page.md",
+    "val/Val Home Page.md",
+    "CS144 Home Page.md",
+    "templates/Home Page.md",
+    "val",
+    "CS Lecture 29-07.md",
+    "target variable.md",
+    "DS 141 Week 5 Notes.md",
+    "lg.md",
     "DS 141 Week 6 Notes.md",
     "DS Week 3 Notes.md",
     "DS Week 4 Notes.md",
-    "CS 144 Topic 7 - Performance.md",
-    "CS144 Home Page.md",
-    "Math 144 Home Page.md",
-    "DS141 Home Page.md",
-    "target variable.md",
-    "contiguously.md",
-    "CS 144 Topic 7 - Performance - graphs.png",
-    "CS 144 Topic 7 - Performance - order of growth.png",
-    "CS 144 Topic 7 - Performance - log log.png",
-    "CS 144 Topic 7 - Performance- curve fitting math.png",
-    "Bayes' Formula.md",
-    "DS 141 Week 5 Notes.md",
-    "Classification.md",
-    "Entropy.md",
-    "Information Gain.md",
-    "generalising model.md",
-    "DS 141 Week 5 Notes - boundaries.png",
-    "DS 141 Week 5 Notes - decision tree.png",
-    "recursively partitioned.md",
-    "Math 154 Home Page.md",
-    "DS Week 4 Notes - code chunks.png",
-    "CS Lecture 29-07.md",
-    "CS Designing Data Types.md",
-    "CS Designing Data Types - functions.png",
-    "CS Designing Data Types - comparison.png",
-    "DS 141 Home Page.md",
-    "Regression.md",
-    "Supervised Learning.md",
-    "Unsupervised Learning.md",
     "templates"
   ]
 }

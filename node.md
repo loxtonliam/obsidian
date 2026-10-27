@@ -1,0 +1,1 @@
+data type that contains a reference to a node

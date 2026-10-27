@@ -1,0 +1,14 @@
+- on code runner
+	- no vscode
+- 5 tries per coding equstions
+- know names and roles of all elements of a class
+- be able to implement a data type (class), given a spec
+- immutability
+- value equality vs identity equality
+- inheritance and polymorphism
+- arrays
+- doubling law
+- logarithms
+- analyse insertion sort, mergesort and binary search
+- run time insertion sort on already sorted array?
+- 
